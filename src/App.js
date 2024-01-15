@@ -1,5 +1,6 @@
-import './App.css';
-import logo from './logo.svg';
+//imports
+import randomColor from 'randomcolor';
+import { useState } from 'react';
 
 export default function App() {
   return (
