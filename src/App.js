@@ -19,7 +19,7 @@ export default function App() {
   const Button = styled.button`
     background-color: magenta;
     color: black;
-    font-size: 35px;
+    font-size: 30px;
     padding: 60px 100px;
     cursor: pointer;
     border-radius: 20px;
